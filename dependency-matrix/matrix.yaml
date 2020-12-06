@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: ci-cd-jenkins-x-k8
+  repo: spring-boot-http-gradle
+  url: https://github.com/ci-cd-jenkins-x-k8/spring-boot-http-gradle.git
+  version: ""
+  versionURL: ""
